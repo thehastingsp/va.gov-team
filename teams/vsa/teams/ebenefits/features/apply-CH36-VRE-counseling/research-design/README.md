@@ -30,6 +30,12 @@
 ---
 
 ### Prototype Changelog
+**September 9 (Upcoming fix), 2020**
+- Revised address block text/accordion revision
+
+**September 8, 2020**
+- Unused accordions removed from Review Screens across all workflows
+
 **August 28, 2020**
 - Prototype revised to address signed-in non-Veteran
 - User info and contact screens renamed to "Claimant's..."
