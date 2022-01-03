@@ -16,14 +16,13 @@ This effort supports these Office of Connected Care’s Goals:
 
 ## **Research Goals**
 
-The goal of this study is to understand the Veteran’s end to end experience of receiving urgent care remotely and discover unmet Veteran needs that might inform Tele-Urgent Care and related CRM implementations.  \
+The goal of this study is to understand the Veteran’s end to end experience of receiving urgent care remotely and discover unmet Veteran needs that might inform Tele-Urgent Care and related CRM implementations.
 
-1. Develop a thorough understanding of the Veteran’s end-to-end experience of accessing immediate care at the VA. \
+1. Develop a thorough understanding of the Veteran’s end-to-end experience of accessing immediate care at the VA.
 
-2. Discover what user needs might be unmet by the current implementation plan for  \
-the CRM solution.
-3. What new opportunities might we uncover to improve the Veteran  \
-experience of Tele-Urgent Care? 
+2. Discover what user needs might be unmet by the current implementation plan for the CRM solution.
+
+3. What new opportunities might we uncover to improve the Veteran experience of Tele-Urgent Care? 
 
 ## Hypotheses
 
